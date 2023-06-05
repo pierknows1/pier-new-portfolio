@@ -37,3 +37,7 @@ https://pierknows1.github.io/pier-new-portfolio/
 
 I could not figure out how to add mobile display
 The buttons at the top don't drag anywhere, i would like to link them to a specific section of the website onclick.
+
+## MIT License
+
+Copyright (c) 2023 Pier Rodriguez
